@@ -56,5 +56,3 @@ public class Person {
     app.text("Age: " + age, x, y - 30); 
   }
 }
-
-D
